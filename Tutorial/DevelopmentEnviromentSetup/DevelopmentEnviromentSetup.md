@@ -133,7 +133,7 @@ const uint32_t g_ADigitalPinMap[] =
 * `按壓 WFEGO_000001 板的 RST 按鍵兩次`
 ![](./image/0.png)
 
-* 點選`Tools`-> `Port`->檢查Serial Port是否出現 ` Nordic nRF52840 DK` 這個 Serial Port.
+* 點選`Tools`-> `Port`->Serial Port選擇` Nordic nRF52840 DK` 這個 Serial Port.
 ![](./image/40.png)
 
 * 點選`Upload` 上傳程式碼至WFEGO_000001.

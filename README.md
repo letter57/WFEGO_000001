@@ -1,7 +1,6 @@
 # WFEGO_000001 介紹
 
 ## The Pinout of the WFEGO_000001-01
-* WFEGO_000001腳位：腳位33根，腳位說明如下圖
 
 ![pinout](./Board/WFEGO_000001_600DPI.png)
 
@@ -16,6 +15,12 @@
   * 需將`P0.05設為Output並輸出Low準位`.
 * 與 nRF52840 Dongle 幾乎相容.
   * `CONFIG_BOARD_ENABLE_DCDC_HV=n`
+* 支援nRF Connect for Desktop
+  * Bluetooth Low Energy
+  * Programmer
+  * RSSI Viewer
+  * BLE Sniffer
+  * Zigbee Sniffer
 
 ## [nRF52840 原廠資料](https://infocenter.nordicsemi.com/index.jsp?topic=/struct_nrf52/struct/nrf52.html)
 
