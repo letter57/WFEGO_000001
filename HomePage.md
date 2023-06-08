@@ -1,3 +1,3 @@
 # 目錄
 
-## [教學](./Tutorial/Tutorial)
+## [教學](./Tutorial/Tutorial.md)

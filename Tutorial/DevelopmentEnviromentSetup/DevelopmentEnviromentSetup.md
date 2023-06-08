@@ -24,9 +24,10 @@
 
 ### 安裝核心程式
 
-* 由於WFEGO_000001(nRF52840)是Arduino相容並非Arduino原廠產品，因此必須在Arduino IDE中安裝WFEGO_000001(nRF52840)核心程式，這樣才可使用Arduino IDE寫WFEGO_000001((nRF52840))。
+* 由於WFEGO_000001(nRF52840)是Arduino相容並非Arduino原廠產品，因此必須在Arduino IDE中安裝WFEGO_000001(nRF52840)核心程式，這樣才可使用Arduino IDE寫WFEGO_000001(nRF52840)。
 
-* 點擊`Arduino IDE.app`
+* 點擊`Arduino IDE.app` 
+
 ![](./image/20.png)
 
 * 點選`Arduino IDE` -> `Preferences...`
