@@ -107,7 +107,7 @@ void loop() {
 * 首先來說明一下，為什麼`P0.08`這支I/O腳，為什麼我們是定義成`uint8_t Blink_Led = 8;`，主要是因為如下的定義.
 
   * P0.31 = 31
-  * P1.01 = 32 
+  * P1.00 = 32 
 
 ```C
 const uint32_t g_ADigitalPinMap[] =
