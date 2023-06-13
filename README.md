@@ -4,6 +4,20 @@
 
 ![pinout](./Board/WFEGO_000001_600DPI.png)
 
+### LED 資訊
+* SystemLED : P0.06，對應GPIO Number為 **6**.
+* RLED : P0.08，對應GPIO Number為 **8**.
+* GLED : P1.09，對應GPIO Number為 **41**.
+* BLED : P0.12，對應GPIO Number為 **12**.
+* **LED PIN LOW = Enable (LED On)**
+
+### 按鈕 資訊
+* RST : 用以重置系統/進入Bootloader Mode.
+  * Double Reset : Reset twice within 500 ms will enter DFU with UF2 and CDC support.
+* SW : P1.06，對應GPIO Number為 **38**.
+
+  
+
 ## 開發方式
 * 支援`Arduino IDE`開發.
 * 支援`Nordic SDK`開發.
