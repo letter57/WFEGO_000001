@@ -1,6 +1,6 @@
 # Bluetooth Low Energy Centra 工具
 
-## 將WFEGO_000001連接至電腦 -> 按壓WFEGO_000001的`RST按鍵`，LED2`紅燈閃爍`
+## 將WFEGO_000001連接至電腦 -> 按壓WFEGO_000001的`RST按鍵`，LED1`紅燈閃爍`
 ![](./image/1.png)
 
 ## 開啟nRF Connect for Desktop軟體 -> 選擇 `Bluetooth Low Energy` -> 點選 `OPEN`.
