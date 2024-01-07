@@ -6,4 +6,6 @@
 
 ## [SSD1306 顯示](./SSD1306/SSD1306.md)
 
+## [MAX6675 + SSD1306](./MAX6675SSD1306/MAX6675SSD1306.md)
+
 ## [bleuart](./bleuart/bleuart.md)
