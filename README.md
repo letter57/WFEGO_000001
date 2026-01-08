@@ -42,4 +42,6 @@
 
 ## [教學](./Tutorial/Tutorial.md)
 
+## [外殼模型下載](https://makerworld.com/zh/models/2144796-compact-nrf52840-case-for-ble-zigbee-experiments#profileId-2323360)
+
 ## [Buy From](https://shopee.tw/nRF52840-%E9%96%8B%E7%99%BC%E6%9D%BF-i.26640381.23644275212?sp_atk=af0a1c73-030b-4a82-b1d5-a3a14a383f4f&xptdk=af0a1c73-030b-4a82-b1d5-a3a14a383f4f)
